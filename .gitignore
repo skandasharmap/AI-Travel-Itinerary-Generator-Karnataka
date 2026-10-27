@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+target/
+*.class
+.env
+.env.*
+!.env.example
+application-local.properties
+*.sql
+.vscode/
+.idea/
+*.log
